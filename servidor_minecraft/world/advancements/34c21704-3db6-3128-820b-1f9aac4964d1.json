@@ -883,7 +883,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "skeleton": "2025-03-02 15:44:27 +0000"
+      "skeleton": "2025-03-02 15:44:27 +0000",
+      "zombie": "2025-03-02 15:53:03 +0000",
+      "spider": "2025-03-02 15:49:06 +0000"
     },
     "done": false
   },
@@ -2342,6 +2344,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-03-02 15:49:58 +0000",
       "rotten_flesh": "2025-03-02 15:44:36 +0000"
     },
     "done": false
@@ -2547,6 +2550,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-03-02 15:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-02 15:48:21 +0000"
     },
     "done": true
   },

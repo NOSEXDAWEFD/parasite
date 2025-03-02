@@ -17531,3 +17531,49 @@ iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found
 [15:45:47] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/371987, l='world', x=108.50, y=50.00, z=260.22]
 [15:45:47] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
 [15:45:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:46:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 has made the advancement [Stone Age]
+[15:47:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:48:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:48:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos has made the advancement [Stone Age]
+[15:48:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:48:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:49:06] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[15:49:06] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/490331, l='world', x=107.70, y=52.10, z=272.05]
+[15:49:06] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[15:49:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:49:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:49:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:49:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:50:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:51:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:51:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 has made the advancement [Take Aim]
+[15:51:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:52:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:53:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:54:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:54:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: _StayYT_ lost connection: Disconnected
+[15:54:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ left the game
+[15:54:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:55:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:55:58] [Server thread/TRACE] [FML]: Handshake channel activating
+[15:55:58] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[15:55:58] [Server thread/DEBUG] [FML]:   Next: HELLO
+[15:55:58] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[15:55:58] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[15:55:58] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[15:55:58] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,mcwbridges@1.0.4,wolfarmor@3.7.5,usefulbackpacks@1.5.4.85,extendedrenderer@v1.0,dldungeonsjbg@1.13.2,dynamictreesbop@1.12.2-1.4.4,mousetweaks@2.10,biomesoplenty@7.0.1.2444,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.302,lostsouls@1.1.4,roguelike@2.3.1,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,autoreglib@1.3-32,artifacts@1.12.2-1.2.4,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,familiarfauna@1.0.11,stg@1.12.2-1.2.2,coroutil@1.12.1-1.2.37,srparasites@1.9.21,uteamcore@2.2.5.339,worldedit@6.1.10,spartanweaponry@beta 1.3.8,aiimprovements@0.0.1.3,additionalstructures@2.3.1,ichunutil@7.2.2,paraglider@1.0.1.5,forge@14.23.5.2860,dynamictrees@1.12.2-0.9.22,playerrevive@1.0,betterfoliage@2.3.1,orelib@3.6.0.1,dsurround@3.6.2.1
+[15:55:58] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[15:55:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[15:55:59] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[15:56:00] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[15:56:00] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[15:56:00] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[15:56:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:56:00] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[15:56:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: _StayYT_[/127.48.60.245:57277] logged in with entity id 649334 at (109.59399546545522, 50.0, 263.5513680079672)
+[15:56:00] [Server thread/INFO] [dsurround]: Player [_StayYT_] connected with Dynamic Surroundings 3.6.2.1
+[15:56:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ joined the game
+[15:56:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ has made the advancement [Getting an Upgrade]
+[15:56:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ has made the advancement [Stone Age]
+[15:56:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ has made the advancement [Acquire Hardware]
