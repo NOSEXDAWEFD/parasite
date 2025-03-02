@@ -659,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-03-02 16:04:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2025-03-02 15:26:54 +0000"
@@ -2353,6 +2359,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-03-02 15:58:44 +0000",
       "cooked_beef": "2025-03-02 15:47:45 +0000",
       "apple": "2025-03-02 15:41:58 +0000",
       "cookie": "2025-03-02 15:44:09 +0000"
@@ -3856,6 +3863,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2025-03-02 15:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-02 16:04:37 +0000"
     },
     "done": true
   },
