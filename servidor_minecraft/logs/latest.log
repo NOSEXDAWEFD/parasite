@@ -581,3 +581,140 @@ iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found
 [16:05:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [16:05:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ is bleeding...
 [16:05:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ was slain by Zombie
+[16:07:49] [Server thread/WARN] [net.minecraft.command.CommandHandler]: Couldn't process command: srparasites
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.dhanantry.scapeandrunparasites.network.SRPCommandRoot.func_184881_a(SRPCommandRoot.java:73) ~[SRPCommandRoot.class:?]
+	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119) [bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91) [bj.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962) [pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37) [la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9) [la.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[16:07:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:08:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:08:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:08:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:08:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:08:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ is bleeding...
+[16:08:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[16:09:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ was slain by Assimilated Cow
+[16:09:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Dantezerodos lost connection: Disconnected
+[16:09:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos left the game
+[16:09:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos was slain by Assimilated Cow
+[16:09:35] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[16:09:35] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 45 mods : minecraft@1.12.2,mcwbridges@1.0.4,wolfarmor@3.7.5,usefulbackpacks@1.5.4.85,extendedrenderer@v1.0,dldungeonsjbg@1.13.2,dynamictreesbop@1.12.2-1.4.4,mousetweaks@2.10,biomesoplenty@7.0.1.2444,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.302,lostsouls@1.1.4,roguelike@2.3.1,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,autoreglib@1.3-32,artifacts@1.12.2-1.2.4,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,familiarfauna@1.0.11,stg@1.12.2-1.2.2,coroutil@1.12.1-1.2.37,srparasites@1.9.21,uteamcore@2.2.5.339,worldedit@6.1.10,spartanweaponry@beta 1.3.8,aiimprovements@0.0.1.3,additionalstructures@2.3.1,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,paraglider@1.0.1.5,forge@14.23.5.2860,dynamictrees@1.12.2-0.9.22,playerrevive@1.0,betterfoliage@2.3.1,orelib@3.6.0.1,dsurround@3.6.2.1
+[16:09:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:09:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Dantezerodos[/127.243.56.81:43003] logged in with entity id 969374 at (113.67930624146494, 72.0, 168.3956297965542)
+[16:09:36] [Server thread/INFO] [dsurround]: Player [Dantezerodos] connected with Dynamic Surroundings 3.6.2.1
+[16:09:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos joined the game
+[16:09:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ is bleeding...
+[16:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 is bleeding...
+[16:09:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 was slain by Assimilated Cow
+[16:09:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ was slain by Dantezerodos
+[16:10:00] [Server thread/WARN] [net.minecraft.command.CommandHandler]: Couldn't process command: srparasites
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.dhanantry.scapeandrunparasites.network.SRPCommandRoot.func_184881_a(SRPCommandRoot.java:73) ~[SRPCommandRoot.class:?]
+	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119) [bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91) [bj.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962) [pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37) [la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9) [la.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[16:10:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:10:57] [Server thread/WARN] [net.minecraft.command.CommandHandler]: Couldn't process command: srparasites setbeckonlimit
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.dhanantry.scapeandrunparasites.network.SRPCommandRoot.func_184881_a(SRPCommandRoot.java:155) ~[SRPCommandRoot.class:?]
+	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119) [bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91) [bj.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962) [pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37) [la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9) [la.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[16:10:59] [Server thread/WARN] [net.minecraft.command.CommandHandler]: Couldn't process command: srparasites setbeckonlimit
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.dhanantry.scapeandrunparasites.network.SRPCommandRoot.func_184881_a(SRPCommandRoot.java:155) ~[SRPCommandRoot.class:?]
+	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119) [bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91) [bj.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962) [pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37) [la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9) [la.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[16:11:26] [Server thread/WARN] [net.minecraft.command.CommandHandler]: Couldn't process command: srparasites
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.dhanantry.scapeandrunparasites.network.SRPCommandRoot.func_184881_a(SRPCommandRoot.java:73) ~[SRPCommandRoot.class:?]
+	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119) [bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91) [bj.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962) [pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37) [la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9) [la.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[16:11:45] [Server thread/WARN] [net.minecraft.command.CommandHandler]: Couldn't process command: srparasites
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.dhanantry.scapeandrunparasites.network.SRPCommandRoot.func_184881_a(SRPCommandRoot.java:73) ~[SRPCommandRoot.class:?]
+	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119) [bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91) [bj.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962) [pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37) [la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9) [la.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[16:15:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Object successfully summoned]
+[16:15:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[16:15:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ is bleeding...
+[16:15:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 is bleeding...
+[16:15:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos blew up
+[16:15:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ blew up
+[16:15:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 blew up
