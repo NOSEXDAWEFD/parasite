@@ -887,6 +887,14 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2025-03-02 15:44:30 +0000",
+      "zombie": "2025-03-02 15:44:21 +0000",
+      "spider": "2025-03-02 15:44:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2025-03-02 15:26:54 +0000"
@@ -1553,6 +1561,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "spider": "2025-03-02 15:44:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_the_recipe": "2025-03-02 15:26:54 +0000"
@@ -1597,6 +1611,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2025-03-02 15:42:53 +0000",
       "swampland": "2025-03-02 15:27:25 +0000",
       "plains": "2025-03-02 15:26:54 +0000",
       "extreme_hills": "2025-03-02 15:29:57 +0000",
@@ -2336,6 +2351,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-03-02 15:41:58 +0000",
+      "cookie": "2025-03-02 15:44:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2025-03-02 15:26:54 +0000"
@@ -2633,6 +2655,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-02 15:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-02 15:41:58 +0000"
     },
     "done": true
   },

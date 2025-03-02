@@ -17460,3 +17460,74 @@ iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found
 [15:34:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [15:35:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 has made the advancement [Sweet dreams]
 [15:35:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:36:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:36:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:37:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:38:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:39:01] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[15:39:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:39:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:40:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: israelz5i22 lost connection: Disconnected
+[15:40:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 left the game
+[15:40:28] [Server thread/TRACE] [FML]: Handshake channel activating
+[15:40:28] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[15:40:28] [Server thread/DEBUG] [FML]:   Next: HELLO
+[15:40:28] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[15:40:28] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[15:40:28] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[15:40:28] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,mcwbridges@1.0.4,wolfarmor@3.7.5,usefulbackpacks@1.5.4.85,extendedrenderer@v1.0,dldungeonsjbg@1.13.2,dynamictreesbop@1.12.2-1.4.4,mousetweaks@2.10,biomesoplenty@7.0.1.2444,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.302,lostsouls@1.1.4,roguelike@2.3.1,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,autoreglib@1.3-32,artifacts@1.12.2-1.2.4,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,familiarfauna@1.0.11,stg@1.12.2-1.2.2,coroutil@1.12.1-1.2.37,srparasites@1.9.21,uteamcore@2.2.5.339,worldedit@6.1.10,spartanweaponry@beta 1.3.8,aiimprovements@0.0.1.3,additionalstructures@2.3.1,ichunutil@7.2.2,paraglider@1.0.1.5,forge@14.23.5.2860,dynamictrees@1.12.2-0.9.22,playerrevive@1.0,betterfoliage@2.3.1,orelib@3.6.0.1,dsurround@3.6.2.1
+[15:40:28] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: WAITINGCACK
+[15:40:28] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[15:40:28] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: COMPLETE
+[15:40:29] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[15:40:29] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: DONE
+[15:40:29] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[15:40:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:40:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: israelz5i22[/127.248.234.9:55323] logged in with entity id 304310 at (56.53097189177076, 50.0, 209.14959711712086)
+[15:40:29] [Server thread/INFO] [dsurround]: Player [israelz5i22] connected with Dynamic Surroundings 3.6.2.1
+[15:40:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 joined the game
+[15:40:29] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[15:40:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:41:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Set own game mode to Survival Mode]
+[15:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Set Dantezerodos's game mode to Survival Mode]
+[15:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Set israelz5i22's game mode to Survival Mode]
+[15:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Set Dantezerodos's game mode to Survival Mode]
+[15:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Set israelz5i22's game mode to Survival Mode]
+[15:41:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Opped israelz5i22]
+[15:42:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:42:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: De-opped israelz5i22]
+[15:42:28] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:42:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:42:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:42:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:43:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:43:57] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[15:43:57] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/347011, l='world', x=115.74, y=52.50, z=262.23]
+[15:43:57] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[15:43:59] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[15:43:59] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/347011, l='world', x=115.87, y=53.18, z=262.22]
+[15:43:59] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[15:44:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 has made the advancement [Monster Hunter]
+[15:44:11] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[15:44:11] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityZombie['Zombie'/384588, l='world', x=108.48, y=50.00, z=264.03]
+[15:44:11] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[15:44:12] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[15:44:12] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityZombie['Zombie'/384589, l='world', x=108.43, y=50.00, z=265.35]
+[15:44:12] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[15:44:13] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[15:44:13] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityZombie['Zombie'/384588, l='world', x=108.13, y=50.00, z=266.42]
+[15:44:13] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[15:44:14] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[15:44:14] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityZombie['Zombie'/384589, l='world', x=108.51, y=50.00, z=269.18]
+[15:44:14] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[15:44:15] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[15:44:15] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityZombie['Zombie'/384588, l='world', x=108.45, y=50.00, z=267.90]
+[15:44:15] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[15:44:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:44:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos has made the advancement [Monster Hunter]
+[15:45:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:45:47] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[15:45:47] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/371987, l='world', x=108.50, y=50.00, z=260.22]
+[15:45:47] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[15:45:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

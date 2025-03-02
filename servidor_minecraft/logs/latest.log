@@ -513,3 +513,24 @@ iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found
 [15:34:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [15:34:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [15:35:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 has made the advancement [Sweet dreams]
+[15:39:01] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[15:40:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: israelz5i22 lost connection: Disconnected
+[15:40:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 left the game
+[15:40:28] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[15:40:28] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,mcwbridges@1.0.4,wolfarmor@3.7.5,usefulbackpacks@1.5.4.85,extendedrenderer@v1.0,dldungeonsjbg@1.13.2,dynamictreesbop@1.12.2-1.4.4,mousetweaks@2.10,biomesoplenty@7.0.1.2444,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.302,lostsouls@1.1.4,roguelike@2.3.1,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,autoreglib@1.3-32,artifacts@1.12.2-1.2.4,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,familiarfauna@1.0.11,stg@1.12.2-1.2.2,coroutil@1.12.1-1.2.37,srparasites@1.9.21,uteamcore@2.2.5.339,worldedit@6.1.10,spartanweaponry@beta 1.3.8,aiimprovements@0.0.1.3,additionalstructures@2.3.1,ichunutil@7.2.2,paraglider@1.0.1.5,forge@14.23.5.2860,dynamictrees@1.12.2-0.9.22,playerrevive@1.0,betterfoliage@2.3.1,orelib@3.6.0.1,dsurround@3.6.2.1
+[15:40:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:40:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: israelz5i22[/127.248.234.9:55323] logged in with entity id 304310 at (56.53097189177076, 50.0, 209.14959711712086)
+[15:40:29] [Server thread/INFO] [dsurround]: Player [israelz5i22] connected with Dynamic Surroundings 3.6.2.1
+[15:40:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 joined the game
+[15:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Set own game mode to Survival Mode]
+[15:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Set Dantezerodos's game mode to Survival Mode]
+[15:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Set israelz5i22's game mode to Survival Mode]
+[15:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Set Dantezerodos's game mode to Survival Mode]
+[15:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Set israelz5i22's game mode to Survival Mode]
+[15:41:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Opped israelz5i22]
+[15:42:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: De-opped israelz5i22]
+[15:42:28] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:42:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:42:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:44:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 has made the advancement [Monster Hunter]
+[15:44:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos has made the advancement [Monster Hunter]
