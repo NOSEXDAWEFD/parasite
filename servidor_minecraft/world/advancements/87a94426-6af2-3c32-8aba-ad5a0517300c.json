@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-03 14:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-03-03 12:41:36 +0000"
@@ -659,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-03-03 14:11:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2025-03-03 12:41:36 +0000"
@@ -889,7 +901,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-03-03 14:11:46 +0000",
       "zombie": "2025-03-03 12:54:26 +0000",
+      "cave_spider": "2025-03-03 14:12:14 +0000",
+      "witch": "2025-03-03 14:14:39 +0000",
       "spider": "2025-03-03 12:49:48 +0000",
       "creeper": "2025-03-03 13:23:51 +0000"
     },
@@ -1618,9 +1633,12 @@
       "desert_hills": "2025-03-03 14:04:46 +0000",
       "forest_hills": "2025-03-03 13:15:29 +0000",
       "plains": "2025-03-03 12:42:48 +0000",
+      "savanna": "2025-03-03 14:07:27 +0000",
+      "savanna_rock": "2025-03-03 14:07:46 +0000",
       "taiga": "2025-03-03 12:41:36 +0000",
       "extreme_hills": "2025-03-03 12:53:36 +0000",
-      "river": "2025-03-03 12:42:43 +0000"
+      "river": "2025-03-03 12:42:43 +0000",
+      "desert": "2025-03-03 14:07:14 +0000"
     },
     "done": false
   },
