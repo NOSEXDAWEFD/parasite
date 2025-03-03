@@ -761,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-03 14:18:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_the_recipe": "2025-03-03 12:41:36 +0000"
@@ -2393,7 +2399,8 @@
       "porkchop": "2025-03-03 14:04:25 +0000",
       "apple": "2025-03-03 12:53:57 +0000",
       "bread": "2025-03-03 12:55:54 +0000",
-      "cookie": "2025-03-03 13:18:35 +0000"
+      "cookie": "2025-03-03 13:18:35 +0000",
+      "cooked_chicken": "2025-03-03 14:21:29 +0000"
     },
     "done": false
   },
