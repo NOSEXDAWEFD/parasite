@@ -245,6 +245,14 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-03-03 13:47:23 +0000",
+      "diamond_helmet": "2025-03-03 13:47:23 +0000",
+      "diamond_boots": "2025-03-03 13:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-03-03 00:12:21 +0000"
@@ -1262,6 +1270,12 @@
       "has_the_recipe": "2025-03-03 00:12:21 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "emerald": "2025-03-03 13:53:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
@@ -2378,6 +2392,7 @@
       "cooked_porkchop": "2025-03-03 00:28:47 +0000",
       "cooked_mutton": "2025-03-03 12:56:07 +0000",
       "cooked_beef": "2025-03-03 00:36:38 +0000",
+      "golden_apple": "2025-03-03 13:51:15 +0000",
       "cooked_chicken": "2025-03-03 12:36:14 +0000"
     },
     "done": false
@@ -2985,6 +3000,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-03-03 00:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-03 13:52:35 +0000"
     },
     "done": true
   },

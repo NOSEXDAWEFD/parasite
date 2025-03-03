@@ -947,3 +947,5 @@
 [13:41:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [13:41:19] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [37, 174] in dimension 0 (overworld) while populating chunk [30, 180], causing cascading worldgen lag.
 [13:41:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[13:47:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mamagubo941 has made the advancement [Cover Me With Diamonds]
+[13:52:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mamagubo941 has made the advancement [Diamonds!]
