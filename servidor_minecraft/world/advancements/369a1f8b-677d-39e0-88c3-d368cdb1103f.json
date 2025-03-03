@@ -659,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-03-03 13:25:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2025-03-03 00:12:21 +0000"
@@ -728,6 +734,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-03-03 00:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-03 13:19:17 +0000"
     },
     "done": true
   },
@@ -1613,12 +1625,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-03-03 00:35:02 +0000",
+      "birch_forest": "2025-03-03 13:26:20 +0000",
       "beaches": "2025-03-03 00:21:01 +0000",
       "desert_hills": "2025-03-03 12:53:40 +0000",
       "forest_hills": "2025-03-03 12:48:01 +0000",
       "plains": "2025-03-03 00:16:46 +0000",
       "taiga": "2025-03-03 00:12:21 +0000",
       "taiga_hills": "2025-03-03 00:17:08 +0000",
+      "birch_forest_hills": "2025-03-03 13:29:14 +0000",
       "extreme_hills": "2025-03-03 00:33:52 +0000",
       "river": "2025-03-03 00:32:39 +0000",
       "desert": "2025-03-03 12:52:00 +0000"
