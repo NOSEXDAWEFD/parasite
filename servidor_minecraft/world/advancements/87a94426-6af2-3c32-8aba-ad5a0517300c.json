@@ -883,6 +883,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie": "2025-03-03 12:54:26 +0000",
       "spider": "2025-03-03 12:49:48 +0000"
     },
     "done": false
@@ -1604,6 +1605,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-03-03 12:46:22 +0000",
+      "beaches": "2025-03-03 13:15:20 +0000",
+      "extreme_hills_with_trees": "2025-03-03 13:14:05 +0000",
       "plains": "2025-03-03 12:42:48 +0000",
       "taiga": "2025-03-03 12:41:36 +0000",
       "extreme_hills": "2025-03-03 12:53:36 +0000",
@@ -2127,6 +2130,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:badger_attack": {
+    "criteria": {
+      "badger_attack": "2025-03-03 13:12:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-03-03 12:41:36 +0000"
@@ -2352,7 +2361,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-03 12:52:24 +0000",
-      "apple": "2025-03-03 12:53:57 +0000"
+      "apple": "2025-03-03 12:53:57 +0000",
+      "bread": "2025-03-03 12:55:54 +0000"
     },
     "done": false
   },
@@ -2650,12 +2660,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-03-03 12:52:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_the_recipe": "2025-03-03 12:41:36 +0000"
@@ -2665,6 +2669,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-03 12:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-03 12:52:24 +0000"
     },
     "done": true
   },
@@ -3853,6 +3863,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2025-03-03 12:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-03 12:57:51 +0000"
     },
     "done": true
   },

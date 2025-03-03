@@ -884,6 +884,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-03-03 12:34:56 +0000",
+      "cave_spider": "2025-03-03 12:54:36 +0000",
       "zombie": "2025-03-03 12:38:41 +0000",
       "spider": "2025-03-03 00:30:49 +0000"
     },
@@ -2359,6 +2360,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-03 00:28:47 +0000",
+      "cooked_mutton": "2025-03-03 12:56:07 +0000",
       "cooked_beef": "2025-03-03 00:36:38 +0000",
       "cooked_chicken": "2025-03-03 12:36:14 +0000"
     },
@@ -2505,6 +2507,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_the_recipe": "2025-03-03 00:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-03 13:00:14 +0000"
     },
     "done": true
   },
