@@ -883,6 +883,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-03-03 12:34:56 +0000",
+      "zombie": "2025-03-03 12:38:41 +0000",
       "spider": "2025-03-03 00:30:49 +0000"
     },
     "done": false
@@ -1475,6 +1477,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-03 12:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-03-03 00:12:21 +0000"
@@ -1605,11 +1613,14 @@
     "criteria": {
       "forest": "2025-03-03 00:35:02 +0000",
       "beaches": "2025-03-03 00:21:01 +0000",
+      "desert_hills": "2025-03-03 12:53:40 +0000",
+      "forest_hills": "2025-03-03 12:48:01 +0000",
       "plains": "2025-03-03 00:16:46 +0000",
       "taiga": "2025-03-03 00:12:21 +0000",
       "taiga_hills": "2025-03-03 00:17:08 +0000",
       "extreme_hills": "2025-03-03 00:33:52 +0000",
-      "river": "2025-03-03 00:32:39 +0000"
+      "river": "2025-03-03 00:32:39 +0000",
+      "desert": "2025-03-03 12:52:00 +0000"
     },
     "done": false
   },
@@ -2348,7 +2359,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-03 00:28:47 +0000",
-      "cooked_beef": "2025-03-03 00:36:38 +0000"
+      "cooked_beef": "2025-03-03 00:36:38 +0000",
+      "cooked_chicken": "2025-03-03 12:36:14 +0000"
     },
     "done": false
   },
