@@ -17928,3 +17928,29 @@ iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found
 [23:06:34] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
 [23:06:34] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCoyote['Coyote'/132963, l='world', x=565.56, y=69.88, z=3214.03]
 [23:06:34] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:06:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:07:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:08:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:08:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:09:14] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:09:14] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/1519888, l='world', x=575.88, y=69.00, z=3149.02]
+[23:09:14] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:09:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[23:09:26] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:09:26] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1543269, l='world', x=555.93, y=72.00, z=3147.17]
+[23:09:26] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:09:28] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:09:28] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1544652, l='world', x=553.70, y=70.00, z=3148.70]
+[23:09:28] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:09:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:10:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:11:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:11:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr has made the advancement [Suit Up]
+[23:11:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos has made the advancement [Suit Up]
+[23:11:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:12:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:13:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:14:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:14:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:15:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:16:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
