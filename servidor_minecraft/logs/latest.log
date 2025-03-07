@@ -639,3 +639,7 @@ iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found
 [23:09:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
 [23:11:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr has made the advancement [Suit Up]
 [23:11:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos has made the advancement [Suit Up]
+[23:22:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[23:23:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos was slain by Rupter
+[23:23:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported Dantezerodos to _StayYT_]
+[23:26:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
