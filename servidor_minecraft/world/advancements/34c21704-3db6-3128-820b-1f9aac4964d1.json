@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-07 23:00:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-03-07 22:22:04 +0000"
@@ -2365,6 +2371,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-03-07 23:00:45 +0000",
       "golden_apple": "2025-03-07 22:34:38 +0000",
       "cooked_chicken": "2025-03-07 22:45:43 +0000"
     },
@@ -2511,6 +2518,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_the_recipe": "2025-03-07 22:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-07 22:58:56 +0000"
     },
     "done": true
   },
@@ -2973,6 +2986,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-03-07 22:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-07 22:58:57 +0000"
     },
     "done": true
   },

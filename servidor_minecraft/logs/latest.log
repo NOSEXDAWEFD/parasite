@@ -613,3 +613,26 @@ iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found
 [22:55:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
 [22:55:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
 [22:56:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr is bleeding...
+[22:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos was shot by Skeleton
+[22:57:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr was shot by Skeleton
+[22:57:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported DanguTr to _StayYT_]
+[22:57:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported DanguTr to _StayYT_]
+[22:57:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported DanguTr to _StayYT_]
+[22:57:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported DanguTr to _StayYT_]
+[22:57:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported DanguTr to _StayYT_]
+[22:57:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported Dantezerodos to _StayYT_]
+[22:58:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[22:58:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos was shot by Skeleton
+[22:58:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 3b240246-2fae-4850-8150-b9b37df2d635
+[22:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported Dantezerodos to _StayYT_]
+[22:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos has made the advancement [Spooky Scary Skeleton]
+[22:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos has made the advancement [Diamonds!]
+[22:59:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[23:00:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported Dantezerodos to _StayYT_]
+[23:00:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported DanguTr to _StayYT_]
+[23:00:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr has made the advancement [Diamonds!]
+[23:00:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr has made the advancement [Spooky Scary Skeleton]
+[23:00:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr has made the advancement [Cover Me With Diamonds]
+[23:00:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos has made the advancement [Cover Me With Diamonds]
+[23:02:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr is bleeding...
+[23:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
