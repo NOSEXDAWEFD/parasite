@@ -17715,3 +17715,126 @@ iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found
 [22:44:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:44:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:45:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:46:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:46:32] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:46:32] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/804154, l='world', x=431.28, y=62.23, z=3178.80]
+[22:46:32] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:46:35] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:46:35] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHumanHead['Walking Head'/1087029, l='world', x=432.11, y=62.27, z=3179.50]
+[22:46:35] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:46:49] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:46:49] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1090458, l='world', x=450.43, y=62.00, z=3197.16]
+[22:46:49] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:47:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:47:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:48:32] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:48:32] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityZombie['Zombie'/1109473, l='world', x=538.26, y=39.00, z=3148.66]
+[22:48:32] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:48:35] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:48:35] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityZombie['Zombie'/1109472, l='world', x=540.40, y=39.00, z=3149.77]
+[22:48:35] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:48:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:48:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr has made the advancement [Isn't It Iron Pick]
+[22:49:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:49:27] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:49:27] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/1146964, l='world', x=528.61, y=39.00, z=3143.01]
+[22:49:27] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:49:38] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:49:38] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/1150578, l='world', x=520.54, y=40.09, z=3124.85]
+[22:49:38] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:49:40] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:49:40] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/1150578, l='world', x=522.90, y=39.63, z=3124.59]
+[22:49:40] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:49:43] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:49:43] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1151265, l='world', x=518.70, y=39.00, z=3127.41]
+[22:49:43] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:50:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:50:15] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:50:15] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/1150575, l='world', x=521.89, y=43.10, z=3140.30]
+[22:50:15] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:50:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[22:50:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr is bleeding...
+[22:50:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:51:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos was shot by Skeleton
+[22:51:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:51:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported Dantezerodos to _StayYT_]
+[22:51:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr was blown up by Creeper
+[22:51:49] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:51:49] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1191098, l='world', x=562.95, y=39.00, z=3089.30]
+[22:51:49] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:52:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr is bleeding...
+[22:52:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:52:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr was slain by Assimilated Human
+[22:52:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported DanguTr to _StayYT_]
+[22:52:56] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:52:56] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySlime['Slime'/1192478, l='world', x=562.37, y=40.17, z=3088.02]
+[22:52:56] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:52:57] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:52:57] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySlime['Slime'/1192479, l='world', x=561.10, y=40.17, z=3087.41]
+[22:52:57] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:53:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported DanguTr to _StayYT_]
+[22:53:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:53:26] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:53:26] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/1246943, l='world', x=556.35, y=39.00, z=3096.39]
+[22:53:26] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:53:32] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:53:32] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCreeper['Creeper'/1249641, l='world', x=560.66, y=39.00, z=3110.41]
+[22:53:32] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:53:33] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:53:33] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCreeper['Creeper'/1249641, l='world', x=560.97, y=39.00, z=3110.76]
+[22:53:33] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:53:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[22:53:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:53:57] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:53:57] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1256205, l='world', x=559.76, y=39.00, z=3110.10]
+[22:53:57] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:54:02] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:54:02] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/1258322, l='world', x=561.35, y=39.88, z=3109.85]
+[22:54:02] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:54:05] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:54:05] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1251610, l='world', x=559.39, y=39.00, z=3117.70]
+[22:54:05] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:54:06] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:54:06] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1256205, l='world', x=558.85, y=39.00, z=3117.70]
+[22:54:06] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:54:07] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:54:07] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1251610, l='world', x=559.09, y=39.00, z=3117.70]
+[22:54:07] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:54:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[22:54:35] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:54:35] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/1268150, l='world', x=561.30, y=39.00, z=3107.26]
+[22:54:35] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:54:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:54:48] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:54:48] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1271626, l='world', x=558.52, y=39.00, z=3109.63]
+[22:54:48] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:54:54] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:54:54] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityZombie['Zombie'/1269971, l='world', x=558.77, y=39.00, z=3089.45]
+[22:54:54] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:54:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[22:55:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[22:55:08] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:55:08] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1278619, l='world', x=570.89, y=39.00, z=3095.30]
+[22:55:08] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:55:12] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:55:12] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/1277317, l='world', x=572.33, y=39.00, z=3097.08]
+[22:55:12] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:55:13] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:55:13] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1278619, l='world', x=567.35, y=39.00, z=3094.28]
+[22:55:13] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:55:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:55:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[22:55:32] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:55:32] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1285178, l='world', x=557.35, y=39.00, z=3102.93]
+[22:55:32] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:55:33] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:55:33] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1285178, l='world', x=556.24, y=39.00, z=3104.36]
+[22:55:33] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:55:52] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:55:52] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCreeper['Creeper'/1279495, l='world', x=561.20, y=39.00, z=3096.30]
+[22:55:52] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:56:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:56:15] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:56:15] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/1296383, l='world', x=557.11, y=38.00, z=3102.07]
+[22:56:15] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:56:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr is bleeding...

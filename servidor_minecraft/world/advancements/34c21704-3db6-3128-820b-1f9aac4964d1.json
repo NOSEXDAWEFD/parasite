@@ -883,8 +883,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "slime": "2025-03-07 22:52:40 +0000",
       "skeleton": "2025-03-07 22:35:10 +0000",
-      "spider": "2025-03-07 22:38:16 +0000"
+      "zombie": "2025-03-07 22:48:58 +0000",
+      "spider": "2025-03-07 22:38:16 +0000",
+      "creeper": "2025-03-07 22:53:30 +0000"
     },
     "done": false
   },
@@ -1616,10 +1619,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "beaches": "2025-03-07 22:51:51 +0000",
       "desert_hills": "2025-03-07 22:29:04 +0000",
       "savanna": "2025-03-07 22:27:13 +0000",
       "savanna_rock": "2025-03-07 22:28:28 +0000",
       "taiga": "2025-03-07 22:22:04 +0000",
+      "ocean": "2025-03-07 22:52:01 +0000",
       "extreme_hills": "2025-03-07 22:30:12 +0000",
       "river": "2025-03-07 22:28:40 +0000",
       "desert": "2025-03-07 22:28:42 +0000"
@@ -2360,7 +2365,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "golden_apple": "2025-03-07 22:34:38 +0000"
+      "golden_apple": "2025-03-07 22:34:38 +0000",
+      "cooked_chicken": "2025-03-07 22:45:43 +0000"
     },
     "done": false
   },
