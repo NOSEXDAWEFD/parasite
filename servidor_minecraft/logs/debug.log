@@ -18072,3 +18072,205 @@ iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found
 [23:36:55] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
 [23:36:55] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/2081988, l='world', x=532.19, y=70.00, z=3156.54]
 [23:36:55] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:37:10] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:37:10] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/2060497, l='world', x=554.39, y=75.17, z=3166.72]
+[23:37:10] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:37:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ is bleeding...
+[23:37:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:37:29] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:37:29] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/2060497, l='world', x=556.29, y=70.00, z=3153.30]
+[23:37:30] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:37:30] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/2060497, l='world', x=556.30, y=70.00, z=3153.30]
+[23:37:30] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:37:30] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/2060497, l='world', x=556.30, y=70.00, z=3153.30]
+[23:37:30] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:37:30] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/2060497, l='world', x=556.88, y=71.27, z=3153.30]
+[23:37:30] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:37:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ fell from a high place
+[23:37:33] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:37:33] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/2060497, l='world', x=558.83, y=74.02, z=3150.11]
+[23:37:33] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:37:35] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:37:35] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/2060497, l='world', x=559.10, y=75.00, z=3148.55]
+[23:37:35] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:37:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[23:37:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported _StayYT_ to 565.5, 68.0, 3175.5]
+[23:37:51] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:37:51] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/2060497, l='world', x=558.50, y=72.00, z=3149.30]
+[23:37:51] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:37:53] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:37:53] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/2060497, l='world', x=558.70, y=72.00, z=3149.30]
+[23:37:53] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:37:55] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:37:55] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/2060497, l='world', x=558.70, y=72.00, z=3149.30]
+[23:37:55] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:37:56] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:37:56] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/2060497, l='world', x=558.70, y=72.00, z=3149.30]
+[23:37:56] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:38:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:38:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[23:38:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:39:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:40:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:40:27] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:40:27] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/2191641, l='world', x=546.32, y=72.00, z=3148.57]
+[23:40:27] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:40:45] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:40:45] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInhooM['Incomplete Form'/1321231, l='world', x=562.44, y=72.00, z=3124.32]
+[23:40:45] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:41:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:41:17] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:41:17] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/2088277, l='world', x=538.11, y=70.00, z=3153.68]
+[23:41:17] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:41:19] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:41:19] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/2088277, l='world', x=539.04, y=70.00, z=3152.54]
+[23:41:19] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:41:22] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:41:22] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHumanHead['Walking Head'/2212146, l='world', x=541.59, y=70.00, z=3154.57]
+[23:41:22] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:41:24] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:41:24] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/2050536, l='world', x=541.76, y=70.00, z=3153.50]
+[23:41:24] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:41:36] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:41:36] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/2052782, l='world', x=525.13, y=71.00, z=3153.58]
+[23:41:36] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:41:38] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:41:38] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/2052782, l='world', x=523.52, y=71.00, z=3154.29]
+[23:41:38] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:41:39] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:41:39] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/2052782, l='world', x=523.52, y=71.00, z=3154.29]
+[23:41:39] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:41:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:42:24] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:42:24] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/2046150, l='world', x=498.36, y=71.00, z=3155.46]
+[23:42:24] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:42:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:42:46] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:42:46] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/1988438, l='world', x=489.31, y=71.00, z=3154.08]
+[23:42:46] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:42:47] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:42:47] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:42:47] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/1988438, l='world', x=489.99, y=71.00, z=3154.32]
+[23:42:47] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:42:47] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/1988438, l='world', x=489.99, y=71.00, z=3154.32]
+[23:42:47] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:42:48] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:42:48] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityShyco['Primitive Longarms'/1988438, l='world', x=489.01, y=71.00, z=3154.97]
+[23:42:48] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:42:52] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:42:52] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/1584437, l='world', x=487.28, y=71.00, z=3163.82]
+[23:42:52] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:42:53] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:42:53] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/1576421, l='world', x=491.35, y=71.00, z=3162.25]
+[23:42:53] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:42:54] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:42:54] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/1584437, l='world', x=494.06, y=71.00, z=3161.59]
+[23:42:54] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:42:55] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:42:55] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHumanHead['Walking Head'/2248813, l='world', x=497.70, y=71.00, z=3161.53]
+[23:42:55] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:42:56] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:42:56] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHumanHead['Walking Head'/2248813, l='world', x=500.17, y=71.00, z=3161.55]
+[23:42:56] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:43:07] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:43:08] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/1578555, l='world', x=463.49, y=70.00, z=3172.25]
+[23:43:08] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:43:09] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:43:09] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/1578555, l='world', x=463.66, y=70.00, z=3171.23]
+[23:43:09] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:43:12] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:43:12] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInhooM['Incomplete Form'/2114663, l='world', x=484.94, y=72.00, z=3127.53]
+[23:43:12] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:43:12] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:43:12] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInhooM['Incomplete Form'/2114663, l='world', x=484.96, y=72.00, z=3127.57]
+[23:43:12] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:43:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:43:25] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:43:25] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInhooM['Incomplete Form'/2035704, l='world', x=516.49, y=72.00, z=3090.89]
+[23:43:25] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:43:29] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:43:29] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/1979819, l='world', x=440.59, y=71.00, z=3154.67]
+[23:43:29] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:43:51] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:43:51] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInhooM['Incomplete Form'/2037829, l='world', x=519.45, y=71.00, z=3088.60]
+[23:43:51] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:43:52] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:43:52] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInhooM['Incomplete Form'/2037829, l='world', x=519.60, y=70.00, z=3087.21]
+[23:43:52] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:43:56] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:43:56] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/2085535, l='world', x=512.50, y=71.18, z=3079.79]
+[23:43:56] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:44:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:44:11] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:44:11] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInhooM['Incomplete Form'/1978041, l='world', x=502.52, y=70.00, z=3040.53]
+[23:44:11] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:44:13] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:44:13] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInhooM['Incomplete Form'/1978041, l='world', x=502.50, y=70.00, z=3042.74]
+[23:44:13] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:44:36] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:44:36] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2279809, l='world', x=533.82, y=72.00, z=3072.51]
+[23:44:36] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:44:43] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:44:43] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2292446, l='world', x=540.52, y=72.00, z=3078.23]
+[23:44:43] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:44:44] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:44:44] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2292446, l='world', x=540.13, y=72.00, z=3079.45]
+[23:44:44] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:44:48] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:44:48] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2292445, l='world', x=541.86, y=73.92, z=3075.50]
+[23:44:48] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:44:50] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:44:51] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2279765, l='world', x=542.10, y=73.54, z=3076.20]
+[23:44:51] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:44:52] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:44:52] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2279765, l='world', x=539.85, y=73.77, z=3076.58]
+[23:44:52] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:44:53] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:44:53] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2279764, l='world', x=539.48, y=72.00, z=3079.03]
+[23:44:53] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:44:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:44:59] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:44:59] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2279764, l='world', x=536.38, y=72.00, z=3082.87]
+[23:44:59] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:45:23] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:45:23] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityZombie['Zombie'/2308640, l='world', x=538.66, y=68.00, z=3082.53]
+[23:45:23] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:45:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:45:40] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:45:40] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/2308641, l='world', x=534.60, y=68.00, z=3088.24]
+[23:45:40] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:45:42] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:45:42] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/2307946, l='world', x=536.30, y=68.00, z=3091.74]
+[23:45:42] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:45:46] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:45:46] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/2307946, l='world', x=534.70, y=68.00, z=3092.64]
+[23:45:46] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:46:20] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:46:20] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2302387, l='world', x=539.79, y=73.09, z=3082.34]
+[23:46:20] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:46:21] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:46:21] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2331645, l='world', x=544.05, y=75.00, z=3075.48]
+[23:46:21] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:46:23] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:46:23] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2331645, l='world', x=545.05, y=76.50, z=3075.35]
+[23:46:23] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:46:24] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:46:24] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2325435, l='world', x=544.12, y=75.00, z=3076.41]
+[23:46:24] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:46:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:46:27] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:46:27] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2316379, l='world', x=544.49, y=77.00, z=3080.04]
+[23:46:27] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:46:29] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:46:29] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2311572, l='world', x=545.56, y=77.00, z=3079.19]
+[23:46:29] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:46:32] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:46:32] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2311572, l='world', x=545.10, y=78.14, z=3077.93]
+[23:46:32] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:46:53] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:46:53] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2344380, l='world', x=541.72, y=78.09, z=3081.18]
+[23:46:53] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:46:54] [Netty Epoll Server IO #4/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[23:46:55] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCaveSpider['Cave Spider'/2344380, l='world', x=542.65, y=76.62, z=3081.51]
+[23:46:55] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[23:47:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
