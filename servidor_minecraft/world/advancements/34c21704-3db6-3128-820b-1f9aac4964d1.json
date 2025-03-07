@@ -883,7 +883,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "skeleton": "2025-03-07 22:35:10 +0000"
+      "skeleton": "2025-03-07 22:35:10 +0000",
+      "spider": "2025-03-07 22:38:16 +0000"
     },
     "done": false
   },

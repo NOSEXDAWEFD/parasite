@@ -17610,3 +17610,108 @@ iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found
 [22:36:11] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
 [22:36:11] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/767524, l='world', x=559.70, y=37.98, z=3122.47]
 [22:36:11] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:36:17] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:36:17] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCreeper['Creeper'/770904, l='world', x=564.37, y=39.00, z=3124.52]
+[22:36:17] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:36:20] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:36:20] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCreeper['Creeper'/770904, l='world', x=565.62, y=39.00, z=3124.49]
+[22:36:20] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:36:22] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:36:22] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityZombie['Zombie'/813650, l='world', x=561.15, y=39.00, z=3124.21]
+[22:36:22] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:36:23] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:36:23] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityZombie['Zombie'/813650, l='world', x=560.37, y=39.00, z=3122.92]
+[22:36:23] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:36:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [38, 184] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [38, 183] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [41, 184] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [39, 183] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [37, 182] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [40, 183] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [40, 182] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [39, 182] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [38, 182] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [40, 181] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [37, 184] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [37, 183] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [37, 181] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [39, 181] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [38, 181] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [41, 183] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:36] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [41, 182] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:37] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [42, 184] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:37] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [42, 183] in dimension 0 (overworld) while populating chunk [40, 184], causing cascading worldgen lag.
+[22:36:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:36:44] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:36:44] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/844569, l='world', x=566.70, y=39.00, z=3128.35]
+[22:36:44] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:36:50] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:36:50] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/827110, l='world', x=567.17, y=39.00, z=3124.30]
+[22:36:50] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:37:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:37:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos was shot by Skeleton
+[22:37:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported Dantezerodos to _StayYT_]
+[22:37:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr is bleeding...
+[22:38:02] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:38:02] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/878491, l='world', x=540.42, y=39.00, z=3148.65]
+[22:38:02] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:38:03] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:38:03] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/878491, l='world', x=539.19, y=39.00, z=3150.04]
+[22:38:03] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:38:07] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:38:07] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/890102, l='world', x=537.79, y=39.00, z=3140.69]
+[22:38:07] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:38:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:38:41] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:38:41] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySkeleton['Skeleton'/799972, l='world', x=548.93, y=72.00, z=3149.30]
+[22:38:41] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:38:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:39:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:39:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DanguTr has made the advancement [Monster Hunter]
+[22:40:13] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:40:13] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInhooM['Incomplete Form'/891597, l='world', x=545.44, y=70.00, z=3143.32]
+[22:40:13] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:40:15] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:40:15] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInhooM['Incomplete Form'/891597, l='world', x=543.65, y=70.00, z=3146.00]
+[22:40:15] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:40:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:41:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:41:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:41:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:41:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:41:32] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:41:32] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/808389, l='world', x=442.78, y=62.71, z=3177.41]
+[22:41:32] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:41:33] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:41:33] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHuman['Assimilated Human'/808389, l='world', x=442.78, y=61.72, z=3177.63]
+[22:41:33] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:41:36] [Netty Epoll Server IO #6/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[22:41:36] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfHumanHead['Walking Head'/959647, l='world', x=442.12, y=62.69, z=3180.24]
+[22:41:36] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[22:41:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:42:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:42:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:43:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:44:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:44:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:45:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
