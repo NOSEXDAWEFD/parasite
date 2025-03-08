@@ -895,6 +895,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2025-03-08 15:30:23 +0000",
       "slime": "2025-03-07 22:52:40 +0000",
       "skeleton": "2025-03-07 22:35:10 +0000",
       "husk": "2025-03-07 23:48:40 +0000",
