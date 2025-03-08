@@ -1296,3 +1296,5 @@
 [14:27:51] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
 [14:35:56] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [0, 254] in dimension 0 (overworld) while populating chunk [1, 255], causing cascading worldgen lag.
 [14:35:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:20] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-5, 247] in dimension 0 (overworld) while populating chunk [-4, 247], causing cascading worldgen lag.
+[14:47:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
