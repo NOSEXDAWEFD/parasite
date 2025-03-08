@@ -2379,8 +2379,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-03-08 15:25:45 +0000",
       "cooked_beef": "2025-03-07 23:00:45 +0000",
       "beef": "2025-03-08 15:14:34 +0000",
+      "apple": "2025-03-08 15:20:26 +0000",
       "cooked_cod": "2025-03-07 23:50:36 +0000",
       "golden_apple": "2025-03-07 22:34:38 +0000",
       "rotten_flesh": "2025-03-07 23:58:00 +0000",
@@ -3649,6 +3651,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-08 15:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-03-07 22:22:04 +0000"
@@ -3892,6 +3900,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2025-03-07 22:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-08 15:19:18 +0000"
     },
     "done": true
   },
