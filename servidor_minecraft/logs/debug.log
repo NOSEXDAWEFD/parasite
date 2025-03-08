@@ -18358,3 +18358,26 @@ Caused by: java.io.FileNotFoundException: https://github.com/DynamicTreesTeam/Dy
 [14:16:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [14:16:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [14:17:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:18:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:19:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:19:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:20:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:21:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:22:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:22:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:23:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:24:00] [Server thread/WARN] [FML]: Quark loaded a new chunk [-7, 257] in dimension 0 (overworld) while populating chunk [-7, 258], causing cascading worldgen lag.
+[14:24:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:24:00] [Server thread/WARN] [FML]: Quark loaded a new chunk [-6, 257] in dimension 0 (overworld) while populating chunk [-7, 258], causing cascading worldgen lag.
+[14:24:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:24:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:24:51] [Server thread/WARN] [FML]: Quark loaded a new chunk [5, 277] in dimension 0 (overworld) while populating chunk [6, 276], causing cascading worldgen lag.
+[14:24:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:24:51] [Server thread/WARN] [FML]: Quark loaded a new chunk [6, 277] in dimension 0 (overworld) while populating chunk [6, 276], causing cascading worldgen lag.
+[14:24:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:25:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:25:34] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [8, 259] in dimension 0 (overworld) while populating chunk [7, 259], causing cascading worldgen lag.
+[14:25:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:25:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:26:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:27:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

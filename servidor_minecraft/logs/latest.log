@@ -1283,3 +1283,13 @@
 [14:15:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [14:15:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [9, 266] in dimension 0 (overworld) while populating chunk [0, 270], causing cascading worldgen lag.
 [14:15:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:24:00] [Server thread/WARN] [FML]: Quark loaded a new chunk [-7, 257] in dimension 0 (overworld) while populating chunk [-7, 258], causing cascading worldgen lag.
+[14:24:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:24:00] [Server thread/WARN] [FML]: Quark loaded a new chunk [-6, 257] in dimension 0 (overworld) while populating chunk [-7, 258], causing cascading worldgen lag.
+[14:24:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:24:51] [Server thread/WARN] [FML]: Quark loaded a new chunk [5, 277] in dimension 0 (overworld) while populating chunk [6, 276], causing cascading worldgen lag.
+[14:24:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:24:51] [Server thread/WARN] [FML]: Quark loaded a new chunk [6, 277] in dimension 0 (overworld) while populating chunk [6, 276], causing cascading worldgen lag.
+[14:24:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:25:34] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [8, 259] in dimension 0 (overworld) while populating chunk [7, 259], causing cascading worldgen lag.
+[14:25:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
