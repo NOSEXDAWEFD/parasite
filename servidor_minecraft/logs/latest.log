@@ -1298,3 +1298,172 @@
 [14:35:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [14:47:20] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-5, 247] in dimension 0 (overworld) while populating chunk [-4, 247], causing cascading worldgen lag.
 [14:47:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:50:01] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[14:50:01] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 45 mods : minecraft@1.12.2,mcwbridges@1.0.4,wolfarmor@3.7.5,usefulbackpacks@1.5.4.85,extendedrenderer@v1.0,dldungeonsjbg@1.13.2,dynamictreesbop@1.12.2-1.4.4,mousetweaks@2.10,biomesoplenty@7.0.1.2444,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.302,lostsouls@1.1.4,roguelike@2.3.1,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,autoreglib@1.3-32,artifacts@1.12.2-1.2.4,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,familiarfauna@1.0.11,stg@1.12.2-1.2.2,coroutil@1.12.1-1.2.37,srparasites@1.9.21,uteamcore@2.2.5.339,worldedit@6.1.10,spartanweaponry@beta 1.3.8,aiimprovements@0.0.1.3,additionalstructures@2.3.1,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,paraglider@1.0.1.5,forge@14.23.5.2860,dynamictrees@1.12.2-0.9.22,playerrevive@1.0,betterfoliage@2.3.1,orelib@3.6.0.1,dsurround@3.6.2.1
+[14:50:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:50:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Dantezerodos[/127.243.56.81:38097] logged in with entity id 971117 at (551.1898009568989, 72.0, 3145.0757842909607)
+[14:50:03] [Server thread/INFO] [dsurround]: Player [Dantezerodos] connected with Dynamic Surroundings 3.6.2.1
+[14:50:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos joined the game
+[14:52:24] [Server thread/WARN] [FML]: Quark loaded a new chunk [-1, 240] in dimension 0 (overworld) while populating chunk [0, 241], causing cascading worldgen lag.
+[14:52:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:24] [Server thread/WARN] [FML]: Quark loaded a new chunk [-1, 239] in dimension 0 (overworld) while populating chunk [0, 241], causing cascading worldgen lag.
+[14:52:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:24] [Server thread/WARN] [FML]: Quark loaded a new chunk [-1, 238] in dimension 0 (overworld) while populating chunk [0, 241], causing cascading worldgen lag.
+[14:52:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:24] [Server thread/WARN] [FML]: Quark loaded a new chunk [-2, 237] in dimension 0 (overworld) while populating chunk [0, 241], causing cascading worldgen lag.
+[14:52:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [6, 225] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [7, 225] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [6, 224] in dimension 0 (overworld) while populating chunk [7, 225], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [7, 224] in dimension 0 (overworld) while populating chunk [7, 225], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [8, 224] in dimension 0 (overworld) while populating chunk [7, 225], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 225] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 225] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [8, 228] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [7, 228] in dimension 0 (overworld) while populating chunk [8, 228], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [6, 228] in dimension 0 (overworld) while populating chunk [8, 228], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [8, 229] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 228] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 229] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 224] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 224] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [8, 225] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [9, 225] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [10, 225] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [8, 223] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 223] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 222] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 223] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 223] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 222] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 222] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 225] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [2, 225] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 224] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [2, 224] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [2, 223] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [2, 222] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 227] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 227] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 226] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 226] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 227] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 226] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [2, 227] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [2, 226] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [1, 226] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [1, 227] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [0, 226] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 228] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 228] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [2, 228] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [7, 227] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [6, 227] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [7, 226] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [6, 226] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [7, 223] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [6, 223] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [6, 222] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [7, 222] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [1, 225] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [1, 224] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 221] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 229] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 229] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [2, 229] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [1, 228] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [8, 227] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [8, 226] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 221] in dimension 0 (overworld) while populating chunk [0, 240], causing cascading worldgen lag.
+[14:52:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:08] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[14:53:08] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 46 mods : minecraft@1.12.2,mcwbridges@1.0.4,wolfarmor@3.7.5,usefulbackpacks@1.5.4.85,extendedrenderer@v1.0,dldungeonsjbg@1.13.2,dynamictreesbop@1.12.2-1.4.4,mousetweaks@2.10,biomesoplenty@7.0.1.2444,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.302,lostsouls@1.1.4,roguelike@2.3.1,quark@r1.6-179,spartanshields@1.5.4,xaerominimap@25.1.0,mcp@9.42,autoreglib@1.3-32,artifacts@1.12.2-1.2.4,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,familiarfauna@1.0.11,stg@1.12.2-1.2.2,coroutil@1.12.1-1.2.37,srparasites@1.9.21,uteamcore@2.2.5.339,worldedit@6.1.10,spartanweaponry@beta 1.3.8,aiimprovements@0.0.1.3,xaerominimap_core@1.12.2-1.0,additionalstructures@2.3.1,ichunutil@7.2.2,paraglider@1.0.1.5,forge@14.23.5.2860,dynamictrees@1.12.2-0.9.22,playerrevive@1.0,betterfoliage@2.3.1,orelib@3.6.0.1,dsurround@3.6.2.1
+[14:53:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:53:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: israelz5i22[/127.248.234.9:41779] logged in with entity id 1098432 at (899.7707310282394, 69.0, 3977.9059656378113)
+[14:53:09] [Server thread/INFO] [dsurround]: Player [israelz5i22] connected with Dynamic Surroundings 3.6.2.1
+[14:53:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 joined the game
+[14:57:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 has made the advancement [Not Today, Thank You]
+[14:57:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mamagubo941: Teleported Mamagubo941 to israelz5i22]
+[14:59:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: israelz5i22 was kicked for floating too long!
+[14:59:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: israelz5i22 lost connection: Flying is not enabled on this server
+[14:59:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 left the game
+[14:59:49] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[14:59:49] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 46 mods : minecraft@1.12.2,mcwbridges@1.0.4,wolfarmor@3.7.5,usefulbackpacks@1.5.4.85,extendedrenderer@v1.0,dldungeonsjbg@1.13.2,dynamictreesbop@1.12.2-1.4.4,mousetweaks@2.10,biomesoplenty@7.0.1.2444,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.302,lostsouls@1.1.4,roguelike@2.3.1,quark@r1.6-179,spartanshields@1.5.4,xaerominimap@25.1.0,mcp@9.42,autoreglib@1.3-32,artifacts@1.12.2-1.2.4,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,familiarfauna@1.0.11,stg@1.12.2-1.2.2,coroutil@1.12.1-1.2.37,srparasites@1.9.21,uteamcore@2.2.5.339,worldedit@6.1.10,spartanweaponry@beta 1.3.8,aiimprovements@0.0.1.3,xaerominimap_core@1.12.2-1.0,additionalstructures@2.3.1,ichunutil@7.2.2,paraglider@1.0.1.5,forge@14.23.5.2860,dynamictrees@1.12.2-0.9.22,playerrevive@1.0,betterfoliage@2.3.1,orelib@3.6.0.1,dsurround@3.6.2.1
+[14:59:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:59:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: israelz5i22[/127.248.234.9:56975] logged in with entity id 1458633 at (838.4611402601438, 65.14919999023675, 4015.8303994482535)
+[14:59:50] [Server thread/INFO] [dsurround]: Player [israelz5i22] connected with Dynamic Surroundings 3.6.2.1
+[14:59:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 joined the game
+[15:00:24] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[15:00:24] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[15:00:24] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[15:00:24] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[15:00:24] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[15:00:24] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[15:00:24] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[15:00:24] [Server thread/INFO] [Quark ASM]: Patch result: true
+[15:04:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 has made the advancement [Take Aim]
+[15:05:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mamagubo941: Teleported Dantezerodos to Mamagubo941]
+[15:07:57] [Server thread/WARN] [FML]: Quark loaded a new chunk [65, 227] in dimension 0 (overworld) while populating chunk [66, 228], causing cascading worldgen lag.
+[15:07:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
