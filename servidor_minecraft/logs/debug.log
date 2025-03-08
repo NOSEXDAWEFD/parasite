@@ -18381,3 +18381,20 @@ Caused by: java.io.FileNotFoundException: https://github.com/DynamicTreesTeam/Dy
 [14:25:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [14:26:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [14:27:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:27:51] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[14:28:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:28:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:29:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:30:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:31:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:31:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:32:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:33:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:34:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:34:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:35:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:35:56] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [0, 254] in dimension 0 (overworld) while populating chunk [1, 255], causing cascading worldgen lag.
+[14:35:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:36:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:37:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:37:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
