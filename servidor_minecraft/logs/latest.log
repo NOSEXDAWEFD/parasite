@@ -2428,3 +2428,59 @@
 [15:22:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mamagubo941 lost connection: Disconnected
 [15:22:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mamagubo941 left the game
 [15:22:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos has made the advancement [Take Aim]
+[15:47:06] [Server thread/ERROR] [srparasites]: Problem while converting entity
+java.lang.NullPointerException: null
+	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[15:47:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 is bleeding...
+[15:47:30] [Server thread/ERROR] [srparasites]: Problem while converting entity
+java.lang.NullPointerException: null
+	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[15:47:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos is bleeding...
+[15:47:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Dantezerodos lost connection: Timed out
+[15:47:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos left the game
+[15:47:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dantezerodos was slain by Gnat
+[15:47:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: israelz5i22 lost connection: Timed out
+[15:47:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 left the game
+[15:47:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: israelz5i22 was slain by Gnat
