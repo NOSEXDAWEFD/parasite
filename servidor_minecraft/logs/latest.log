@@ -592,3 +592,10 @@
 [15:09:00] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
 [15:09:00] [Server thread/INFO] [Quark ASM]: Patch result: true
 [15:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported _StayYT_ to Mamagubo941]
+[15:14:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:16:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ is bleeding...
+[15:16:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Mamagubo941
+[15:16:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mamagubo941: Teleported _StayYT_ to Mamagubo941]
+[15:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ is bleeding...
+[15:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mamagubo941: Teleported _StayYT_ to Mamagubo941]
+[15:19:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ is bleeding...
