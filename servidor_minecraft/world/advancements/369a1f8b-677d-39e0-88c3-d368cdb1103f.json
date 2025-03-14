@@ -859,6 +859,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:animal_head_first": {
+    "criteria": {
+      "head4": "2025-03-14 14:53:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/tanzanite_block": {
     "criteria": {
       "has_the_recipe": "2025-03-03 00:12:21 +0000"
@@ -2542,6 +2548,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:animal_head_variants": {
+    "criteria": {
+      "head4": "2025-03-14 14:53:17 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-03-03 00:12:21 +0000"
@@ -2949,6 +2961,12 @@
       "has_the_recipe": "2025-03-03 00:12:21 +0000"
     },
     "done": true
+  },
+  "betteranimalsplus:animal_head_all": {
+    "criteria": {
+      "head4": "2025-03-14 14:53:17 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
