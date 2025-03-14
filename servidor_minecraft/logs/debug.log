@@ -17665,3 +17665,28 @@ Caused by: java.io.FileNotFoundException: https://github.com/DynamicTreesTeam/Dy
 [15:20:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [15:21:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [15:21:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:22:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:23:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:24:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:24:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:25:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:26:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:27:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:27:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:28:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:28:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:29:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:29:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:29:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:29:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:30:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:30:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [_StayYT_: Teleported _StayYT_ to Mamagubo941]
+[15:30:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:31:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mamagubo941 has reached the goal [Postmortal]
+[15:31:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:32:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _StayYT_ has made the advancement [Take Aim]
+[15:32:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

@@ -1573,6 +1573,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-03-14 15:31:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/ruby": {
     "criteria": {
       "has_the_recipe": "2025-03-03 00:12:21 +0000"
